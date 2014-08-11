@@ -1,4 +1,11 @@
-g5
+Dot Game
 ==
 
-Game 5.  This may someday become a project based on twitter bootstrap, but I'm thinking that may be overkill for my intended game.
+Small game inspired by one I frequently see on kid's menus at resturants.  HTML5 canvas/jQuery Mobile based.
+
+[Play it here](http://billsco.github.io/dotGame/)
+
+TODO
+===
+1. General cleanup
+2. Replace JQM with bootstrap.
